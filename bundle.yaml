@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "rekha-casc-ws-dev-controller"
+description: "CloudBees CI configuration bundle for the rekha-casc-ws dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/rekha-casc-ws/dev-controller"
+parent: "base"
